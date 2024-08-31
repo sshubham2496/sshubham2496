@@ -6,4 +6,4 @@
 
 - 📫 How to reach me **sshubham2496@gmail.com**
 
-- - ⚡ Fun fact **A Healthcare Operation Specialist Turned IT Professional**
+- ⚡ Fun fact **A Healthcare Operation Specialist Turned IT Professional**
