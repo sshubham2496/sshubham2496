@@ -1,6 +1,9 @@
-<h1> Hey 👋, I'm Shubham Sharma.... </h1>
+<h1 align="center">Hi there👋, I'm Shubham</h1>
+<h3 align="center">Data Analyst/Scientist </h3>
+<h3 align="center">Data Analyst</h3>
 
+- 🌱 I’m currently learning **Power BI, Python, SQL, Advanced Excel**
 
-- Data Analyst
+- 📫 How to reach me **sshubham2496@gmail.com**
 
-- From Mumbai
+- - ⚡ Fun fact **A Healthcare Operation Specialist Turned IT Professional**
