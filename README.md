@@ -3,6 +3,6 @@
 
 - 🌱 Currently Perfecting **Power BI, Tableau, Python, SQL, Advanced Excel**
 
-- 📫 You can connect with me on **sshubham2496@gmail.com**
+- 📫 You can connect with me on **sharmashubham7337@gmail.com**
 
 - ⚡ Fun fact **A Healthcare Operation Specialist Turned IT Professional**
